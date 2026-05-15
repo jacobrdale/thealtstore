@@ -1,0 +1,52 @@
+{
+  "name": "HiJake AltStore Source",
+  "identifier": "xyz.hijake.source",
+  "sourceURL": "https://as.hijake.xyz/index.json",
+  "apps": [
+    {
+      "name": "Folium",
+      "bundleIdentifier": "com.jarrodnorwell.folium",
+      "developerName": "Jarrod Norwell",
+      "subtitle": "Folium for iOS",
+      "localizedDescription": "Folium packaged for AltStore distribution.",
+      "iconURL": "https://as.hijake.xyz/icons/folium.png",
+      "tintColor": "34AADC",
+
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-05-14",
+          "localizedDescription": "Initial release.",
+          "downloadURL": "https://as.hijake.xyz/apps/folium.ipa",
+          "size": 25452000
+        }
+      ],
+
+      "screenshotURLs": [],
+      "permissions": []
+    },
+
+    {
+      "name": "Geode",
+      "bundleIdentifier": "com.geode.ios",
+      "developerName": "Geode Team",
+      "subtitle": "Geode for iOS",
+      "localizedDescription": "Geode packaged for AltStore distribution.",
+      "iconURL": "https://as.hijake.xyz/icons/geode.png",
+      "tintColor": "34AADC",
+
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-05-14",
+          "localizedDescription": "Initial release.",
+          "downloadURL": "https://as.hijake.xyz/apps/geode.ipa",
+          "size": 12932000
+        }
+      ],
+
+      "screenshotURLs": [],
+      "permissions": []
+    }
+  ]
+}
