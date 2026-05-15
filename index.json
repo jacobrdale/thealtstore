@@ -11,7 +11,6 @@
       "localizedDescription": "Folium packaged for AltStore distribution.",
       "iconURL": "https://as.hijake.xyz/icons/folium.png",
       "tintColor": "34AADC",
-
       "versions": [
         {
           "version": "1.0",
@@ -21,7 +20,6 @@
           "size": 25452000
         }
       ],
-
       "screenshotURLs": [],
       "permissions": []
     },
@@ -34,7 +32,6 @@
       "localizedDescription": "Geode packaged for AltStore distribution.",
       "iconURL": "https://as.hijake.xyz/icons/geode.png",
       "tintColor": "34AADC",
-
       "versions": [
         {
           "version": "1.0",
@@ -44,7 +41,27 @@
           "size": 12932000
         }
       ],
+      "screenshotURLs": [],
+      "permissions": []
+    },
 
+    {
+      "name": "DolphiniOS",
+      "bundleIdentifier": "me.oatmealdome.dolphinios",
+      "developerName": "OatmealDome",
+      "subtitle": "GameCube & Wii Emulator",
+      "localizedDescription": "A fast, JIT-enabled GameCube and Wii emulator for iOS.",
+      "iconURL": "https://as.hijake.xyz/icons/dolphin.png",
+      "tintColor": "0095D5",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-05-15",
+          "localizedDescription": "Initial release.",
+          "downloadURL": "https://as.hijake.xyz/apps/dolphin.ipa",
+          "size": 0
+        }
+      ],
       "screenshotURLs": [],
       "permissions": []
     }
